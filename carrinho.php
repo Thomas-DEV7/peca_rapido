@@ -7,6 +7,7 @@
     <title>Carrinho de Compras</title>
 </head>
 
+
 <body>
     <h1>Seu Carrinho de Compras</h1>
 
