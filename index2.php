@@ -5,6 +5,7 @@
 // require './components/header.php';
 
 // session_start();
+
 try {
     if ($_SESSION['nivel'] == 'admin') {
         $id_user = $_SESSION['id'];
